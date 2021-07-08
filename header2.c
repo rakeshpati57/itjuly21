@@ -1,0 +1,1 @@
+# It is a source file for header2.
